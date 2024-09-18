@@ -1,0 +1,17 @@
+body{
+    font-family: Helvetica, Arial,  sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 16;
+}
+
+.greeting-container{
+    padding: 1.25rem;
+    border: 1px solid #ccc;
+}
+
+#personalized-greeting{
+    font-size: 1.5rem;
+    margin-bottom: 1.25rem;
+}
